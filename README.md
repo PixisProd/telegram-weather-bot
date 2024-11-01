@@ -17,7 +17,7 @@ cd <your-repository-folder>
 ```
 2. **Next, clone the repository:**
 ```bash
-git clone https://github.com/PixisProd/telegram-todo-bot.git #######################
+git clone https://github.com/PixisProd/telegram-weather-bot.git
 ```
 3. **After which you can optionally create a virtual environment, this is not necessary, but I would recommend:**
 ```bash
